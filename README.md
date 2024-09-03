@@ -1,6 +1,6 @@
 # Zomato Data-Driven Dashboard
 
-### This project showcases a comprehensive data dashboard for Zomato, visualizing key metrics like sales, user engagement, and city performance. The dashboard provides insights into dining trends, user behavior, and urban dynamics based on real-world data. It's built using [mention any tools or technologies used, e.g., Power BI, Tableau, etc.], and serves as a powerful tool for understanding the factors driving Zomato's success.
+### This project showcases a comprehensive data dashboard for Zomato, visualizing key metrics like sales, user engagement, and city performance. The dashboard provides insights into dining trends, user behavior, and urban dynamics based on real-world data. It's built using Power BI and serves as a powerful tool for understanding the factors driving Zomato's success.
 
 
 ## Key Features:
