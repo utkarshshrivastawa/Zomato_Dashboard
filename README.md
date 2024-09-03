@@ -9,5 +9,6 @@
 ### City Insights: Detailed analysis of sales, ratings, and user activity across top-performing cities.
 ### Explore the Project: https://app.powerbi.com/reportEmbed?reportId=aa510ad2-54d5-4bc5-bc84-b22511ebbf07&autoAuth=true&ctid=a5840ece-7ae5-48e0-9ebe-248ceb407d8b
 
-![Uploading image.png…]()
 
+
+![Video ](https://github.com/user-attachments/assets/e5595faa-0cce-4f0b-bdd2-d3752883d45a)
